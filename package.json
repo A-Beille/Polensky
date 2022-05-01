@@ -1,0 +1,20 @@
+{
+  "name": "rinascitarobot",
+  "version": "2.5.0",
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "canvacord": "^5.2.3",
+    "canvas": "^2.8.0",
+    "discord-api-types": "^0.25.0",
+    "discord-html-transcripts": "^2.2.6",
+    "discord.js": "^13.4.0",
+    "humanize-duration": "^3.27.1",
+    "lodash": "^4.17.21",
+    "minecraft-server-util": "^5.1.2",
+    "moment": "^2.29.1",
+    "parse-duration": "^1.0.2"
+  }
+}
