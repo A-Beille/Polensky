@@ -10,7 +10,7 @@
     "canvas": "^2.8.0",
     "discord-api-types": "^0.25.0",
     "discord-html-transcripts": "^2.2.6",
-    "discord.js": "^13.4.0",
+    "discord.js": "^14.9.0",
     "humanize-duration": "^3.27.1",
     "lodash": "^4.17.21",
     "minecraft-server-util": "^5.1.2",
