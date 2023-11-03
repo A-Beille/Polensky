@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 const client = new Discord.Client({intents: [47095]})
-client.login('ODA5NDYyMjQ3NTExNjg3MTc5.YCVcdg.pydRlF3YR4hIs6xtgdjrPzoCqGM')
+client.login('')
 client.on(Discord.Events.ClientReady,()=>{
     client.user.setStatus(Discord.PresenceUpdateStatus.Invisible)
 })
